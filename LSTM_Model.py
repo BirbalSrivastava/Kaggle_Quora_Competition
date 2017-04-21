@@ -1,5 +1,5 @@
 ########################################
-#LSTM Kaggle Quora competiton
+#<LSTM Kaggle Quora competiton> Birbal Srivastava </>
 ########################################
 ## import packages
 ########################################
